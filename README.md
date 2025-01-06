@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding " width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+<img align ="right" alt="coding " width="200" height="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyatripathi673" alt="diyatripathi673" /></a> </p>
 
