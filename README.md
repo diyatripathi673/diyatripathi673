@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Diya Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align ="right" alt="coding " width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyatripathi673" alt="diyatripathi673" /></a> </p><img align ="right" alt="coding " width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyatripathi673" alt="diyatripathi673" /></a> </p>
 
 - 🌱 I’m currently learning **WEB DEVLOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/diya-tripathi-%F0%9F%9A%80%F0%9F%8C%90-b26884262/?originalSubdomain=in](https://www.linkedin.com/in/diya-tripathi-%F0%9F%9A%80%F0%9F%8C%90-b26884262/?originalSubdomain=in)
+- 👨‍💻 All of my projects are available at [https://github.com/diyatripathi673](https://github.com/diyatripathi673)
 
 - 📫 How to reach me **tripathidiya673@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/diya-tripathi-%F0%9F%9A%80%F0%9F%8C%90-b26884262/?originalSubdomain=in](https://www.linkedin.com/in/diya-tripathi-%F0%9F%9A%80%F0%9F%8C%90-b26884262/?originalSubdomain=in)
+
+- ⚡Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
