@@ -1,22 +1,7 @@
-## Hi there 👋
-
-<!--
-**diyatripathi673/diyatripathi673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<h1 align="center">Hi 👋, I'm Diya Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Diya Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyatripathi673" alt="diyatripathi673" /></a> </p><img align ="right" alt="coding " width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
-
-
 
 
 - 🌱 I’m currently learning **WEB DEVLOPMENT**
@@ -39,6 +24,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyatripathi673&show_icons=true&locale=en&layout=compact" alt="diyatripathi673" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diyatripathi673&" alt="diyatripathi673" /></p>
-
-- ⚡ Fun fact: ...
--->
